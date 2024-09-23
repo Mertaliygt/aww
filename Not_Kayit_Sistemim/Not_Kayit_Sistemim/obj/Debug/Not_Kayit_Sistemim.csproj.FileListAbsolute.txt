@@ -1,0 +1,13 @@
+C:\Users\Mert\source\repos\Not_Kayit_Sistemim\Not_Kayit_Sistemim\bin\Debug\Not_Kayit_Sistemim.exe.config
+C:\Users\Mert\source\repos\Not_Kayit_Sistemim\Not_Kayit_Sistemim\bin\Debug\Not_Kayit_Sistemim.exe
+C:\Users\Mert\source\repos\Not_Kayit_Sistemim\Not_Kayit_Sistemim\bin\Debug\Not_Kayit_Sistemim.pdb
+C:\Users\Mert\source\repos\Not_Kayit_Sistemim\Not_Kayit_Sistemim\obj\Debug\Not_Kayit_Sistemim.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Not_Kayit_Sistemim\Not_Kayit_Sistemim\obj\Debug\Not_Kayit_Sistemim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mert\source\repos\Not_Kayit_Sistemim\Not_Kayit_Sistemim\obj\Debug\Not_Kayit_Sistemim.FrmGiris.resources
+C:\Users\Mert\source\repos\Not_Kayit_Sistemim\Not_Kayit_Sistemim\obj\Debug\Not_Kayit_Sistemim.FrmOgrenciDetay.resources
+C:\Users\Mert\source\repos\Not_Kayit_Sistemim\Not_Kayit_Sistemim\obj\Debug\Not_Kayit_Sistemim.Properties.Resources.resources
+C:\Users\Mert\source\repos\Not_Kayit_Sistemim\Not_Kayit_Sistemim\obj\Debug\Not_Kayit_Sistemim.csproj.GenerateResource.cache
+C:\Users\Mert\source\repos\Not_Kayit_Sistemim\Not_Kayit_Sistemim\obj\Debug\Not_Kayit_Sistemim.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Not_Kayit_Sistemim\Not_Kayit_Sistemim\obj\Debug\Not_Kayit_Sistemim.exe
+C:\Users\Mert\source\repos\Not_Kayit_Sistemim\Not_Kayit_Sistemim\obj\Debug\Not_Kayit_Sistemim.pdb
+C:\Users\Mert\source\repos\Not_Kayit_Sistemim\Not_Kayit_Sistemim\obj\Debug\Not_Kayit_Sistemim.FrmOgretmenDetay.resources
